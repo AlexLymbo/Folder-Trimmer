@@ -1,1 +1,1 @@
-# Folder-Trimmer
+# Folder Trimmer
